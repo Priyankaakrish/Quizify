@@ -1,2 +1,2 @@
-# Quizify
-AI-Generated Quiz Tool
+## Quizify - AI-Generated Quiz Tool
+
